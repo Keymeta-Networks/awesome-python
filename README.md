@@ -489,7 +489,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Software and libraries for DevOps.*
 
 * Configuration Management
-    * [Terraform](https://www.terraform.io/) - Terraform Cloud enables infrastructure automation for provisioning the server.
     * [ansible](https://github.com/ansible/ansible) - A radically simple IT automation platform.
     * [cloudinit](https://cloudinit.readthedocs.io/en/latest/) - A multi-distribution package that handles early initialization of a cloud instance.
     * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
